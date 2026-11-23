@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleName</key><string>PromptShelf</string>
+    <key>CFBundleDisplayName</key><string>词屿</string>
+    <key>CFBundleIdentifier</key><string>studio.promptshelf.mac</string>
+    <key>CFBundleExecutable</key><string>PromptShelf</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.1.12</string>
+    <key>CFBundleVersion</key><string>13</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSSupportsAutomaticTermination</key><false/>
+    <key>NSAppleEventsUsageDescription</key><string>用于读取所选备忘录，并将提示词及 Markdown 附件保存到备忘录的词屿文件夹。</string>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+</dict></plist>

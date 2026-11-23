@@ -1,0 +1,17 @@
+.build/
+dist/
+.DS_Store
+*.xcuserstate
+.swiftpm/
+DerivedData/
+*.xcuserdatad/
+*.app/
+*.dmg
+*.zip
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+xcuserdata/
